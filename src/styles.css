@@ -1,0 +1,46 @@
+/* Global Styles */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  /* Container Styles */
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* User List Styles */
+  .user-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .user-list-item {
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* User Detail Styles */
+  .user-detail {
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Search Bar Styles */
+  .search-bar {
+    margin-bottom: 20px;
+  }
+  
+  /* Sort Bar Styles */
+  .sort-bar {
+    margin-bottom: 20px;
+  }
